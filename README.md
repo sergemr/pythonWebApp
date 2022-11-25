@@ -1,2 +1,2 @@
 # pythonWebApp
-Masters for AI web development project
+AI web development project for Masters
